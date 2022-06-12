@@ -9,7 +9,7 @@ O objetivo foi entender como fazer a importação dos dados, sua limpeza, junç�
 
 Os _notebooks_ originais estão disponíveis nesse repositório, bem como os feitos por mim.
 
-Os arquivos com os dados podem ser acessados atráves da pasta [_data_ ](https://github.com/alecsandergr/imersao-dados-alura/blob/main/data/links.md).
+Os arquivos com os dados podem ser acessados atráves da pasta [_data_](https://github.com/alecsandergr/imersao-dados-alura/blob/main/data/links.md).
 
 
 
